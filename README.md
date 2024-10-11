@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on pancreatic carcinogenesis, while doing my doctoral studies<br>🌱 Right now learning analysis of scRNA-seq and spatial transcriptomic datatsets<br>💬 Happy to learn new stuff and get to know people from the field <br>⚡ Looking for interesting opportunities after completing my Dr. 
+🔭 I’m currently working on pancreatic carcinogenesis (oncology/epigenetics), while doing my doctoral studies<br>🌱 Right now learning analysis of scRNA-seq and spatial transcriptomic datatsets<br>💬 Happy to learn new stuff and get to know people from the field <br>⚡ Looking for interesting opportunities after completing my Dr. <br> 💜 I am specifically interested in analysis of multi-omics data
 
 
 # 💻 Tech Stack:
