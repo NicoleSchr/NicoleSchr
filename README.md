@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on pancreatic carcinogenesis, while doing my doctoral studies<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on pancreatic carcinogenesis, while doing my doctoral studies<br>🌱 Right now learning analysis of scRNA-seq and spatial transcriptomic datatsets<br>💬 Happy to learn new stuff and get to know people from the field <br>⚡ Motivated 
 
 
 # 💻 Tech Stack:
